@@ -1,5 +1,5 @@
 s3_conf:
-  s3_bucket: kuntest
+  s3_bucket: kundata
 
 files:
     directory: droplocation
